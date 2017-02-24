@@ -1,0 +1,7 @@
+#Sat Feb 25 03:16:29 ICT 2017
+base.0=F\:\\doto\\Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e6089d421aad6d8a5d41b0c7eb50f547b3d4fb0e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\doto\\Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5d332e3d8561f1b0124261f0de9726fae9c6d329\\classes.dex
+base.1=F\:\\doto\\Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5d332e3d8561f1b0124261f0de9726fae9c6d329
+file.0=F\:\\doto\\Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e6089d421aad6d8a5d41b0c7eb50f547b3d4fb0e\\classes.dex
