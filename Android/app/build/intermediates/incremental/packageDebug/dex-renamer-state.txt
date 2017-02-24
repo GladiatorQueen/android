@@ -1,4 +1,4 @@
-#Sat Feb 25 03:16:29 ICT 2017
+#Sat Feb 25 04:10:03 ICT 2017
 base.0=F\:\\doto\\Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e6089d421aad6d8a5d41b0c7eb50f547b3d4fb0e
 renamed.1=classes2.dex
 renamed.0=classes.dex
